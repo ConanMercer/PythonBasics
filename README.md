@@ -6,5 +6,6 @@ Current topics include:
 
 - Strings
 - Lists
+- Conditions
 
 This is an ongoing project.
